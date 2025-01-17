@@ -1,2 +1,2 @@
 # Hello-world
-I aim to develop dynamic, user-friendly websites that focus on accessibility, aesthetics, and responsive design. My goal is to create meaningful user experiences while learning advanced technologies like JavaScript, React, and Node.js.
+Jasmeen first commit.  
